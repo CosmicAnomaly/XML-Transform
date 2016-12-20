@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE checking SYSTEM "checking.dtd">
+<!--
+Author: Linda Sanchez
+Date:   3/1/2008
+-->
+
+<checking>
+  <check id="C1217" category="entertainment">
+    <amount>415.95</amount>
+    <to>Ticket Source</to>
+    <date>9/3/2008</date>
+    <memo>Tickets for the Jazz Concert</memo>
+  </check>
+  <check id="C1215" category="books">
+    <amount>372.50</amount>
+    <to>Text International</to>
+    <date>8/30/2008</date>
+    <memo>Latin II textbooks</memo>
+  </check>
+  <check id="C1213" category="books">
+    <amount>233.24</amount>
+    <to>Text International</to>
+    <date>8/28/2008</date>
+    <memo>Algebra I textbooks</memo>
+  </check>
+  <check id="C1216" category="supplies">
+    <amount>179.50</amount>
+    <to>Office World</to>
+    <date>8/30/2008</date>
+    <memo>Laser Printer toner</memo>
+  </check>
+  <check id="C1211" category="supplies">
+    <amount>149.51</amount>
+    <to>Office World</to>
+    <date>8/25/2008</date>
+    <memo>Whiteboard Supplies</memo>
+  </check>
+  <check id="C1214" category="utilities">
+    <amount>94.85</amount>
+    <to>Central Electric</to>
+    <date>8/29/2008</date>
+    <memo>Electric Bill</memo>
+  </check>
+  <check id="C1210" category="other">
+    <amount>29.15</amount>
+    <to>Hank's Hardware</to>
+    <date>8/24/2008</date>
+    <memo>Drill kit</memo>
+  </check>
+  <check id="C1212" category="other">
+    <amount>22.50</amount>
+    <to>Citgo</to>
+    <date>8/25/2008</date>
+    <memo>Gasoline</memo>
+  </check>
+</checking>
